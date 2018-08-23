@@ -1,8 +1,4 @@
-### Build a Blockchain and Cryptocurrency from Scratch
-
-The official code for the *Build a Blockchain and Cryptocurrency from Scratch* course on Udemy by David Katz.
-
-Check out the course: [https://www.udemy.com/build-blockchain](https://www.udemy.com/build-blockchain)
+### SrCoin Concept
 
 The blockchain is a revolutionary technology that allows for the secure, distributed, decentralized storage of information. Over the past few years, the blockchain has taken the engineering landscape by storm. Many people in the industry predict that the blockchain will disrupt the ways we interact with technology on the same way the Internet did in the early 2000s.
 
